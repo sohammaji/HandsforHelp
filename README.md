@@ -116,4 +116,3 @@ Thank you
 
 Thank You!
 
->>>>>>> 4bfe558 (Added a thank you at the end of the readme file.)
