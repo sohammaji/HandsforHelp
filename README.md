@@ -105,4 +105,15 @@ git push -u origin <your_branch_name>
 
 **15** Voila :exclamation: You have made a PR to the HandsforHelp :boom: . Wait for your submission to be accepted and your PR to be merged.
 
+<<<<<<< HEAD
 Thank you
+||||||| parent of 4bfe558 (Added a thank you at the end of the readme file.)
+
+
+
+
+=======
+
+Thank You!
+
+>>>>>>> 4bfe558 (Added a thank you at the end of the readme file.)
